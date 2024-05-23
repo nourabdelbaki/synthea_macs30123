@@ -1,0 +1,2 @@
+Payer Id,Plan Id,Name,Services Covered,Deductible,Default Coinsurance,Default Copay,Monthly Premium,Max Out of Pocket,Medicare Supplement,Is ACA Plan,Income Based Premium,Eligibility Policy,Start Year,End Year,Priority Level,Notes
+10000,10001,Universal Plan,*,0,1,0,0,0,FALSE,FALSE,FALSE,Generic,0,,1,
